@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Akeen!
 
 Welcome to my GitHub profile! I'm a passionate developer with experience across various technologies. From backend Python magic to frontend web design, I love building solutions that make life easier and more fun!
 
@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 - Improving my **Java** skills.
   
 ## 📫 How to reach me:
-- Email: [Email](akeenkarkare@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akeen-karkare-5ba430304/)
-- Instagram: [Instagram](https://www.instagram.com/akeen.exe/)
+- [Email](akeenkarkare@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/akeen-karkare-5ba430304/)
+- [Instagram](https://www.instagram.com/akeen.exe/)
 
 Feel free to check out my work, contribute, or just say hi! 😄
