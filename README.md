@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 - Improving my **Java** skills.
   
 ## 📫 How to reach me:
-- Email: [akeenkarkare@gmail.com]
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akeen-karkare-5ba430304/)]
-- Instagram: [akeen.exe]
+- Email: [Email](akeenkarkare@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akeen-karkare-5ba430304/)
+- Instagram: [Instagram](https://www.instagram.com/akeen.exe/)
 
 Feel free to check out my work, contribute, or just say hi! 😄
