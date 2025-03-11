@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**akeenkarkare/akeenkarkare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with experience across various technologies. From backend Python magic to frontend web design, I love building solutions that make life easier and more fun!
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Programming Languages & Frameworks:
+- **Python**: numpy, pandas, sklearn, discord.py, streamlit, TAlib, OpenCV
+- **JavaScript**: React.js, Next.js, Three.js
+- **Java**
+- **HTML & CSS**
+  
+### Tools & Technologies:
+- **Linux**: Comfortable with various Linux distributions and command-line tools.
+- **APIs**: Experienced with building and consuming APIs, including Discord bots and data-driven web apps.
+
+## 🌱 I’m currently learning
+- Advanced **React.js** and **Next.js** concepts.
+- Exploring **machine learning** and **data science** in Python.
+- Improving my **Java** skills.
+  
+## 📫 How to reach me:
+- Email: [akeenkarkare@gmail.com]
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/akeen-karkare-5ba430304/)]
+- Instagram: [akeen.exe]
+
+Feel free to check out my work, contribute, or just say hi! 😄
