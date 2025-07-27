@@ -3,12 +3,6 @@
 <!-- ======================== -->
 <h1 align="center">Hi there 👋 I'm Akeen!</h1>
 
-<p align="center">
-  <a href="https://github.com/akeenkarkare">
-    <img src="https://komarev.com/ghpvc/?username=akeenkarkare&color=brightgreen" alt="Profile views"/>
-  </a>
-</p>
-
 ---
 
 ## 🔭 About Me
