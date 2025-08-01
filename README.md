@@ -2,6 +2,9 @@
 <!--         HEADER          -->
 <!-- ======================== -->
 <h1 align="center">Hi there 👋 I'm Akeen!</h1>
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=akeenkarkare&theme=blood-dark)](https://git.io/streak-stats)
 
 ---
 
