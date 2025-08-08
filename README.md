@@ -5,7 +5,7 @@
 
 ---
 
-![Akeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeenakarkare&theme=cobalt&show_icons=true)
+![Akeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeenkarkare&theme=cobalt&show_icons=true)
 
 ---
 
