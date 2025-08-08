@@ -5,7 +5,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=akeenkarkare&theme=blood-dark)](https://git.io/streak-stats)
+![Akeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeenakarkare&theme=cobalt&show_icons=true)
 
 ---
 
