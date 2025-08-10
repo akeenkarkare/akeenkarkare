@@ -1,7 +1,7 @@
 <!-- ======================== -->
 <!--         HEADER          -->
 <!-- ======================== -->
-<h1 align="center">Hi there 👋 I'm Akeen!</h1>
+<h1 align="center">Hi 👋 I'm Akeen!</h1>
 
 ---
 
