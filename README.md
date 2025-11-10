@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 </p>
 
 - **Python**: numpy · pandas · sklearn · discord.py · streamlit · TA-Lib · OpenCV  
-- **JavaScript**: React.js · Next.js · Three.js · Electron
+- **JavaScript**: React.js · Next.js · Three.js · Electron · Express.js
 - **Java**  
 - **HTML & CSS**
 
