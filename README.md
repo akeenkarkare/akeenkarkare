@@ -8,6 +8,11 @@ Welcome to my GitHub profile! I'm a passionate developer with experience across 
 
 ---
 
+## My GitHub Stats
+[![Akeens's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akeenkarkare&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
 ## 🛠️ Skills
 
 ### Programming Languages & Frameworks
