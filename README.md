@@ -3,12 +3,6 @@
 <!-- ======================== -->
 <h1 align="center">Hi 👋 I'm Akeen!</h1>
 
----
-
-[Akeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=akeenkarkare&theme=cobalt&show_icons=true)
-
----
-
 ## 🔭 About Me
 Welcome to my GitHub profile! I'm a passionate developer with experience across various technologies.
 
