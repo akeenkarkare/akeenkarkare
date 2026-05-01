@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I'm a physics student at **Stony Brook University** who likes building ambitious projects across software, AI, robotics, and computational science.
+I'm a physics student at **Stony Brook University** who enjoys building ambitious projects across software, AI, robotics, and computational science.
 
 I’m especially interested in projects where code touches the real world: competitive coding platforms, autonomous robots, signal processing, and experimental AI systems.
 
