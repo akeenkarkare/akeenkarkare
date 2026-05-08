@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋 I'm Akeen Karkare</h1>
 
-<h3 align="center">Physics @ Stony Brook • AI • Robotics • Systems • Weird ideas that actually run</h3>
+<h3 align="center">Physics @ Stony Brook • AI • Robotics • Systems • Weird ideas that actually work</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=I+build+things+that+actually+run.;AI+%2B+Systems+%2B+Robotics;Computational+Physics+%2B+Real+Products;Currently+building+YeetCode+%F0%9F%A5%8A" />
