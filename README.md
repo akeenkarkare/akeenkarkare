@@ -24,7 +24,7 @@
 
 I'm a physics student at **Stony Brook University** who enjoys building ambitious projects across software, AI, robotics, and computational science.
 
-I’m especially interested in projects where code touches the real world: competitive coding platforms, autonomous robots, signal processing, and experimental AI systems.
+I’m especially interested in projects where code interacts with the real world: competitive coding platforms, autonomous robots, signal processing, and experimental AI systems.
 
 ---
 
