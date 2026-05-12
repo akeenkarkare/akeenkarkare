@@ -116,7 +116,7 @@ I’m especially interested in projects where code interacts with the real world
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,rust,shell" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,rust,bash" />
 </p>
 
 ### Frameworks & Tools
