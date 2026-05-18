@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Akeen Karkare</h1>
+<h1 align="center">Hey! I'm Akeen Karkare</h1>
 
 <h3 align="center">Physics @ Stony Brook • AI • Robotics • Systems • Weird ideas that actually work</h3>
 
